@@ -1,1 +1,2 @@
 # Speed_Radars
+The project presents a python program that illustrates the workings of radars, with specific emphasis on signal processing, target detection, and imaging. By using algorithms, the program converts radar data into a visual format, which helps to clarify the radar operation. This project serves as an exceptional resource for anyone who desires to gain knowledge in the field of radar technology and its applications. For instance, the information provided would be of interest to individuals involved in aviation, military, and weather forecasting.
